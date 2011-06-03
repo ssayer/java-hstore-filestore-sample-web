@@ -1,0 +1,7 @@
+Java hStore File Store Sample
+------------------
+
+Sample Web application that uses the example file store hStore as the HDR provider.
+
+Included is a zip file containing a sample patient. Unzip the patient to the directory
+defined in the File Store's hstore.properties file (/hdata/store by default).
